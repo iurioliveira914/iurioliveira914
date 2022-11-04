@@ -11,7 +11,7 @@
  <div>
   <a href="https://github.com/iurioliveira914">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iurioliveira914&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurioliveira914&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurioliveira914&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
  
 <div style="display: inline_block"><br>
