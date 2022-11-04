@@ -11,7 +11,7 @@
  <div>
   <a href="https://github.com/iurioliveira914">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iurioliveira914&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurioliveira914&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurioliveira914&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
  
 <div style="display: inline_block"><br>
@@ -25,9 +25,9 @@
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/iuri-oliveira-21ba10203/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:iuribrito84@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/5511930124688"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/iuri-oliveira-21ba10203/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="mailto:iuribrito84@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://wa.me/5511930124688" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
  
   ![Snake animation](https://github.com/iurioliveira914/iurioliveira914/blob/output/github-contribution-grid-snake.svg)
 
